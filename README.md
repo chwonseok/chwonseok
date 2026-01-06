@@ -7,13 +7,8 @@ I love building things that make our lives easier.
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chwonseok&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-### Streak
-
-<p>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chwonseok&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chwonseok&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chwonseok&theme=default&hide_border=true" height="165" />
 </p>
 
 ### Activity
