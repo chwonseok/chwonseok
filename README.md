@@ -14,7 +14,7 @@ I love building things that make our lives easier.
 ### Streak
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chwonseok&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=chwonseok&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### Activity
